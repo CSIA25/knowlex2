@@ -4,7 +4,6 @@ const publications = [
   'Forbes',
   'TechCrunch',
   'Times Higher Education',
-  'QS World Rankings',
   'Coursera',
   'EdSurge',
   'Harvard Business Review'
